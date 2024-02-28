@@ -13,8 +13,6 @@ int main(int argc, char const *argv[])
     for(int i=0;i<=num;i++)
     {
         printf("%d\t",i);
-    }
-
-    
+    } 
     return 0;
 }
